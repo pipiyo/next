@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next -p 80"
+    "dev": "next -p 8080"
   },
   "author": "",
   "license": "ISC",
